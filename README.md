@@ -1,7 +1,3 @@
-# DS-125: Introduction to Data Science Course
+# DS-125: Introduction to Data Science - Fall 2021
 
-Notes and materials for the intro to data science course at Coe College.
-
----
-
-[Lecture 1](/lecture_01/lecture_01.slides.html)
+This repository houses the lecture notes and data used for the course.
