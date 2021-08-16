@@ -1,1 +1,3 @@
-# intro_to_datascience_FA21
+# DS-125: Introduction to Data Science Course
+
+Notes and materials for the intro to data science course at Coe College.
