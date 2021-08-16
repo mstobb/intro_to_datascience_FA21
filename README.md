@@ -4,4 +4,4 @@ Notes and materials for the intro to data science course at Coe College.
 
 ---
 
-[Lecture 1](/lecture_01/index.md)
+[Lecture 1](/lecture_01/lecture_01.html)
