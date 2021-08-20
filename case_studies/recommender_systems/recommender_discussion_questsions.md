@@ -2,7 +2,7 @@
 
 ## Big Picture Ideas
 
-1. **Why do we need recommender systems AT ALL?**
+### 1) **Why do we need recommender systems AT ALL?**
 
 - Short tail vs. Long tail
   - Can people come up with examples of each?
@@ -19,7 +19,7 @@
 
   
 
-2. **What's the real world data to consider?**
+### 2) **What's the real world data to consider?**
 
 - Users
   - Things they do (behavior)
@@ -36,7 +36,7 @@
   - User with User
     - Users can be similar or different from each other
 
-3. **How do we get data on these users, products, or relationships?**
+### 3) **How do we get data on these users, products, or relationships?**
 
 - Users can supply their own information explicitly
   - Fill out a form, survey, etc.
@@ -52,7 +52,7 @@
   - User-User
     - Can be computed from user-generated data
 
-4. **What are the different types of recommender systems?**
+### 4) **What are the different types of recommender systems?**
 
 - Recommender Systems:
   - Content-based
@@ -82,7 +82,7 @@
     - Construct a model for a user, so ratings on products can be predicted
     - Recommendations are based on the model, not specific users
 
-5. **Ways to measure "similarity"?**
+### 5) **Ways to measure "similarity"?**
 
 - First, all attributes for users and products must be quantified
 - Similarity is then measured as the "distance" between users/products
